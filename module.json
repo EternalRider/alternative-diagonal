@@ -11,6 +11,6 @@
   "url": "https://github.com/EternalRider/alternative-diagonal",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/EternalRider/alternative-diagonal/releases/download/latest/module.json",
+  "download": "https://github.com/EternalRider/alternative-diagonal/releases/download/latest/alternative-diagonal.zip"
 }
