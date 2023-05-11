@@ -1,0 +1,16 @@
+{
+  "name": "alternative-diagonal",
+  "title": "替代式斜线移动",
+  "description": "将方格的斜线移动改为dnd的5/10/5模式。这是个与系统无关的mod所以可以适用于任何系统。",
+  "version": "0.1.0",
+  "author": "EternalRider",
+  "esmodules": ["./init.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "url": "https://github.com/EternalRider/alternative-diagonal",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "manifest": "",
+  "download": ""
+}
